@@ -1,5 +1,7 @@
 package net.hudsonlifestyle;
 
+import java.util.List;
+
 public class HelloMvn {
 
 	public static void main(String[] args) {
