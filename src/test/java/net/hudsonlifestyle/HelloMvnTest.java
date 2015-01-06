@@ -8,6 +8,7 @@ public class HelloMvnTest {
 
 	@Test
 	public void testHelloMvn() throws Exception {
-		assertTrue(false);
+//		assertTrue(false);
+		HelloMvn.main(null);
 	}
 }
